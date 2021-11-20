@@ -1,5 +1,2 @@
-#include <iostream>
+// Newton Cotes Integration
 
-int main() {
-  std::cout << "Hello World!\n";
-} 
